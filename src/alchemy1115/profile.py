@@ -21,13 +21,13 @@ def create_content():
 
     content.append("  [SNS]\n", style="bold cyan")
     content.append("  X:             ", style="italic bright_green")
-    content.append("https://x.com/symphonius_ryo\n")
+    content.append("https://x.com/symphonius_ryo\n", style="blue underline")
     content.append("  Qiita:         ", style="italic bright_green")
-    content.append("https://qiita.com/ry-harada\n")
+    content.append("https://qiita.com/ry-harada\n", style="blue underline")
     content.append("  Speaker Deck:  ", style="italic bright_green")
-    content.append("https://speakerdeck.com/alchemy1115\n")
+    content.append("https://speakerdeck.com/alchemy1115\n", style="blue underline")
     content.append("  GitHub:        ", style="italic bright_green")
-    content.append("https://github.com/alchemy-1115\n")
+    content.append("https://github.com/alchemy-1115\n", style="blue underline")
     
     return content
 

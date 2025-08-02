@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "alchemy1115"
-version = "0.1.0"
+version = "1.0.0"
 description = "Profile display command line tool"
 authors = [{name = "alchemy-1115"}]
 readme = "README.md"
