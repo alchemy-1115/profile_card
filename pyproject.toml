@@ -30,8 +30,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/alchemy-1115/alchemy1115"
-Issues = "https://github.com/alchemy-1115/alchemy1115/issues"
+Homepage = "https://github.com/alchemy-1115/profile_card"
+Issues = "https://github.com/alchemy-1115/profile_card/issues"
 
 [project.scripts]
 alchemy1115 = "alchemy1115.profile:app"
