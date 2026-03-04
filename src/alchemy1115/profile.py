@@ -16,8 +16,10 @@ def create_content():
     content.append("Ryotaro Harada（あるけみー）\n\n", style="bold cyan")
     content.append("  Awards:        ", style="yellow")
     content.append("2024/2025 Japan AWS All Certifications Engineers\n")
+    content.append("                 ", style="yellow")
+    content.append("AWS Community Builder (Serverless)\n")
     content.append("  Certifcations: ", style="yellow")
-    content.append("AWSx14, IPA AP/NW/SC, Registered Scrum Master\n\n")
+    content.append("AWSx15, IPA AP/NW/SC, Registered Scrum Master, Registered Product Owner\n\n")
 
     content.append("  [SNS]\n", style="bold cyan")
     content.append("  X:             ", style="italic bright_green")
